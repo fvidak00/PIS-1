@@ -7,6 +7,9 @@ namespace PIS1
 {
     class NewClass
     {
+        private void DrugaPraznaMetoda()
+        {
+        }
     }
 
 }
